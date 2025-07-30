@@ -1,6 +1,7 @@
 body {
       margin: 0;
       font-family: Arial, sans-serif;
+      background-color: rgb(255, 255, 255);
     }
 
     header {
@@ -17,7 +18,7 @@ body {
     }
 
     footer {
-      background-color: #f2f2f2;
+      background-color: orange;
       text-align: center;
       padding: 10px;
       font-size: 0.9rem;
