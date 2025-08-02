@@ -3,9 +3,7 @@ import './home.css';
 function Home() {
   return (
     <div>
-      <header className="orange-header">
-        Owenn Dartois - Blog
-      </header>
+      
 
       <main className="main-content">
         <h1>Welcome to my Home component 👋</h1>
