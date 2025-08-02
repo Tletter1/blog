@@ -1,0 +1,9 @@
+footer {
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 55px;
+    margin: 24px; /* Add this line for spacing */
+}

@@ -3,16 +3,12 @@ import './home.css';
 function Home() {
   return (
     <div>
-      
-
       <main className="main-content">
-        <h1>Welcome to my Home component 👋</h1>
-        <p>This is loaded from a separate file.</p>
       </main>
-
-      <footer className="orange-footer">
-        &copy; 2025 - Blog
-      </footer>
+      <div className="modal">
+        <h2>Welcome!</h2>
+        <p>This is a centered, rounded modal.</p>
+      </div>
     </div>
   );
 }

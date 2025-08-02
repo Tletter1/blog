@@ -5,8 +5,8 @@ function Header() {
     <header className="header">
       <h1>My Blog</h1>
       <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
+        <a className="hbutton" href="/">Home</a>
+        <a className="hbutton" href="/about">About</a>
       </nav>
     </header>
   );
